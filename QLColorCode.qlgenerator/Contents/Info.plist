@@ -15,6 +15,8 @@
 			<string>QLGenerator</string>
 			<key>LSItemContentTypes</key>
 			<array>
+				<string>dyn.ah62d4rv4ge8023pxsq</string>
+				<string>public.mpeg-2-transport-stream</string>
 				<string>dyn.ah62d4rv4ge80y652</string>
 				<string>dyn.ah62d4rv4ge81k652</string>
 				<string>dyn.ah62d4rv4ge80k2pwsu</string>
